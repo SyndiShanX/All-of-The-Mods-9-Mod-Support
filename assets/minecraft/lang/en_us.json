@@ -108,7 +108,7 @@
   "options.ao.off": "§4OFF",
   "options.narrator.off": "§4OFF",
   "resourcePack.openFolder": "Resource Pack Folder",
-  "resourcePack.title": "§4(Please use Optifine!!)    §rResource Packs    §4(Please use Optifine!!)",
+  "resourcePack.title": "§rResource Packs",
   "menu.singleplayer": "§r逡 Singleplayer",
   "menu.multiplayer": "§r逢 Multiplayer",
   "selectServer.direct": "Direct Connect",
