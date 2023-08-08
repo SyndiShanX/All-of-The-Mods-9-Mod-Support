@@ -1,0 +1,1 @@
+Replace `assets/minecraft/atlases/blocks.json` in the Default [1.20.1 Pack](https://dokucraft.co.uk/resource-packs/light) with [blocks.json](https://raw.githubusercontent.com/SyndiShanX/All-of-The-Mods-9-Mod-Support/main/blocks.json) to Fix Erroring Textures
