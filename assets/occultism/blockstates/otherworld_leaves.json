@@ -9,7 +9,7 @@
 				{"persistent":false, "distance":6},
 				{"persistent":true}
 			]},
-			"apply": {"model": "block/otherworld_leaves"}
+			"apply": {"model": "occultism:block/otherworld_leaves"}
 		},
 		{	"when": { "OR": [
 				{"persistent":false, "distance":1},
@@ -21,10 +21,10 @@
 				{"persistent":true}
 			]},
 			"apply": [
-				{"model": "block/leaves/otherworld_leaves/top0"},
-				{"model": "block/leaves/otherworld_leaves/top1"},
-				{"model": "block/leaves/otherworld_leaves/top2"},
-				{"model": "block/leaves/otherworld_leaves/top3"}
+				{"model": "occultism:block/leaves/otherworld_leaves/top0"},
+				{"model": "occultism:block/leaves/otherworld_leaves/top1"},
+				{"model": "occultism:block/leaves/otherworld_leaves/top2"},
+				{"model": "occultism:block/leaves/otherworld_leaves/top3"}
 			]
 		},
 		{	"when": { "OR": [
@@ -37,10 +37,10 @@
 				{"persistent":true}
 			]},
 			"apply": [
-				{"model": "block/leaves/otherworld_leaves/bottom0"},
-				{"model": "block/leaves/otherworld_leaves/bottom1"},
-				{"model": "block/leaves/otherworld_leaves/bottom2"},
-				{"model": "block/leaves/otherworld_leaves/bottom3"}
+				{"model": "occultism:block/leaves/otherworld_leaves/bottom0"},
+				{"model": "occultism:block/leaves/otherworld_leaves/bottom1"},
+				{"model": "occultism:block/leaves/otherworld_leaves/bottom2"},
+				{"model": "occultism:block/leaves/otherworld_leaves/bottom3"}
 			]
 		}
 	]
